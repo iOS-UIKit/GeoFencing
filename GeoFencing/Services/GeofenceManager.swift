@@ -1,3 +1,10 @@
+//
+//  GeofenceManager.swift
+//  GeoFencing
+//
+//  Created by Sameed Ansari on 18/03/2025.
+//
+
 import Foundation
 import CoreLocation
 import UserNotifications
